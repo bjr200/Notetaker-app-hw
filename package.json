@@ -1,0 +1,22 @@
+{
+  "name": "module-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjr200/Module-11-unc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjr200/Module-11-unc/issues"
+  },
+  "homepage": "https://github.com/bjr200/Module-11-unc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
